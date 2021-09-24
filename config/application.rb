@@ -29,5 +29,17 @@ module UnterChallenge
                  max_age: 0
       end
     end
+    
+    # Disable generation of helpers, assets, routing
+    # and specs for helpers, routes, controller and request
+
+    config.generators do |generate|
+      generate.helper false
+      generate.assets false
+      generate.skip_routes true
+      generate.helper_specs false
+      generate.controller_specs false
+      generate.request_specs false
+    end
   end
 end
