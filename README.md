@@ -1,24 +1,12 @@
-# README
+# Unter Challenge
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Week 4 weekend solo challenge of CA's Fullstack Web Dev Bootcamp.
 
-Things you may want to cover:
+### User Stories
 
-* Ruby version
+```
+As a development team
+In order to be able to collectively work on the same codebase
+We would like to have a main repository on GitHub we all can use as the upstream repository
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
