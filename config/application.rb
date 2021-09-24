@@ -18,10 +18,6 @@ module UnterChallenge
   class Application < Rails::Application
     config.load_defaults 6.1
     config.api_only = true
-        
-    # Disable generation of helpers, assets, routing
-    # and specs for helpers, routes, controller and request
-
     config.generators do |generate|
       generate.helper false
       generate.assets false
