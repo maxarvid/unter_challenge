@@ -24,7 +24,7 @@ We would like to be able to write and run automated tests
 ```
 
 ### Setting up Continuous Integration
-[![Build Status](https://maxarvid.semaphoreci.com/badges/unter_challenge/branches/development.svg?style=shields)]
+![Build Status](https://maxarvid.semaphoreci.com/badges/unter_challenge/branches/development.svg?style=shields)
 ```
 As a development team
 In order to make sure that the code we add to the code base is functional
