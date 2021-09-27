@@ -24,6 +24,7 @@ We would like to be able to write and run automated tests
 ```
 
 ### Setting up Continuous Integration
+[![Build Status](https://maxarvid.semaphoreci.com/badges/unter_challenge/branches/development.svg?style=shields)]
 ```
 As a development team
 In order to make sure that the code we add to the code base is functional
@@ -31,6 +32,7 @@ We would like to run full test suite on a remote service
 ```
 
 ### Setting up Coverage Metrics
+[![Test Coverage](https://api.codeclimate.com/v1/badges/1e58e36804d7b483f472/test_coverage)](https://codeclimate.com/github/maxarvid/unter_challenge/test_coverage)
 ```
 As a development team
 In order to see how much of our code is covered in tests
