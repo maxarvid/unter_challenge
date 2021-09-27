@@ -29,3 +29,10 @@ As a development team
 In order to make sure that the code we add to the code base is functional
 We would like to run full test suite on a remote service
 ```
+
+### Setting up Coverage Metrics
+```
+As a development team
+In order to see how much of our code is covered in tests
+We would like to measure test coverage using a remote service
+```
